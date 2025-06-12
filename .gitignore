@@ -1,0 +1,22 @@
+# 虛擬環境資料夾
+.venv/
+
+# Python 暫存檔
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 模型檔（可選擇是否要上傳）
+*.h5
+*.hdf5
+
+# 資料資料夾（視情況忽略）
+# data/
+
+# Jupyter Notebook Checkpoints（如果有用 .ipynb）
+.ipynb_checkpoints/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
